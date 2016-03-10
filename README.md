@@ -1,3 +1,3 @@
 # SDK Documentation
 
-[KIDOZ SDK Documentation] (https://github.com/Kidoz-SDK/Documentation/wiki)
+[KIDOZ SDK OVERVIEW] (https://github.com/Kidoz-SDK/Documentation/wiki)
